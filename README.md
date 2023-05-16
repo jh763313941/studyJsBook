@@ -50,3 +50,6 @@
 10. 实践项目和深入实战：
    - 实践项目：尝试在实际项目中应用你所学到的TypeScript知识，从简单的小项目开始，并逐渐挑战更复杂的应用场景。
    - 深入实战：进一步探索TypeScript的高级特性和应用，如装饰器、模块解析策略、自定义类型声明等。
+
+学习资料参考
+1. https://ts.xcatliu.com/introduction/what-is-typescript.html
